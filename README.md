@@ -10,16 +10,16 @@ torch >= 1.7, torchvision >= 0.8.0, timm >= 0.4.12, Cuda >=10.1
 
 ### Visual stream(image)
 
-python main.py
+'python main.py'
 
 ### Visual stream(video shot)
 
-python main.py
+'python main.py'
 
 ### Audio stream
 
-python main.py
+'python main.py'
 
 # Testing
 
-python predict.py
+'python predict.py'
