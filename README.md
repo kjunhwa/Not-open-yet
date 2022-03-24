@@ -22,3 +22,4 @@ python main.py
 
 # Testing
 
+python predict.py
