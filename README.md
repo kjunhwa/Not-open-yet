@@ -8,11 +8,17 @@ torch >= 1.7, torchvision >= 0.8.0, timm >= 0.4.12, Cuda >=10.1
 
 # Training
 
-## Visual stream(image)
+### Visual stream(image)
 
-## Visual stream(video shot)
+python main.py
 
-## Audio stream
+### Visual stream(video shot)
+
+python main.py
+
+### Audio stream
+
+python main.py
 
 # Testing
 
