@@ -14,7 +14,7 @@ torch >= 1.7, torchvision >= 0.8.0, timm >= 0.4.12, Cuda >=10.1
 
 ### Visual stream(video shot)
 
-`python main.py`
+`python main_3d.py`
 
 ### Audio stream
 
@@ -23,3 +23,5 @@ torch >= 1.7, torchvision >= 0.8.0, timm >= 0.4.12, Cuda >=10.1
 # Testing
 
 `python predict.py`
+
+# Data preparaion & Argumemt option will be opened later
